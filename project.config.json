@@ -41,7 +41,7 @@
   "miniprogramRoot": "dist/wx/",
   "compileType": "miniprogram",
   "appid": "wx6e90ad9f88b43161",
-  "projectname": "my-project",
+  "projectname": "my_mpvue_project",
   "condition": {
     "search": {
       "list": []
